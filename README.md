@@ -18,7 +18,7 @@
  
 <div align="center"> 
   <a href="https://dxlerYT.github.io" target="_blank">
-     <img src="https://tryhackme-badges.s3.amazonaws.com/dxlerYT.png" alt="TryHackMe">
+     <img height='64' style='border:0px;height:64px;' src='https://tryhackme-badges.s3.amazonaws.com/dxlerYT.png' border='0' alt='TryHackMe Profile' /></a>
   </a>
 </div>
 
@@ -55,7 +55,7 @@
 <br/>
 
 <div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<a href='https://ko-fi.com/dxleryt' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>
 
 <br/>
